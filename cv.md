@@ -23,7 +23,7 @@ I believe there is no limit to perfection and I strive for it very strong. Seeki
 * Git
 * Postman
 
-### Tools
+**Tools:**
 * SourceTree
 * Postman
 * MySQL Workbench
@@ -34,6 +34,22 @@ I believe there is no limit to perfection and I strive for it very strong. Seeki
 * GTD
 * Wide range of expertise
 
+
+## Code Example
+```
+function han(a, b, n) {
+    if (n == 1) {
+        console.log(`${a} -> ${b} : 1`)
+    }
+    else {
+        han(a, 6 - a - b, n - 1);
+        console.log(`${a} -> ${b} : ${n}`)
+        han(6 - a - b, b, n - 1);
+    }
+}
+    
+han(2, 3, 5);
+```
 
 ## Languages
 * English - Intermediate
