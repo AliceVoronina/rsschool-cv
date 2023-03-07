@@ -74,7 +74,8 @@ han(2, 3, 5);
 
 
 ## Experience
-Simmakers Ltd.
+**Simmakers Ltd.**
+
 CEO Assistant | Manual QA 
 * Manual testing of a company's software products using Jira as a bug tracking system.
 * Building & testing customer specific editions of software product [Frost 3D](https://frost3d.ru/eng/) using Jenkins.
