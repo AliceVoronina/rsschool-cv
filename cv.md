@@ -1,4 +1,5 @@
 # Alice Voronina
+![CV photo](/images/CV.jpg)
 ## Contacts
 * **Location:** Georgia / Poland
 * **E-mail:** [alice.voroninaa@gmail.com](mailto:alice.voroninaa@gmail.com)
