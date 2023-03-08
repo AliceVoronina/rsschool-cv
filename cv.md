@@ -1,5 +1,5 @@
 # Alice Voronina
-<img src="/images/CV.jpg" width="30%" style="border-radius: 100px" />
+<img src="https://alicevoronina.github.io/rsschool-cv/images/CV.jpg" width="30%" style="border-radius: 10px" />
 
 ## Contacts
 * **Location:** Georgia / Poland
